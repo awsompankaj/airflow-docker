@@ -1,8 +1,8 @@
 # Airflow-docker
 
-clone the repo
+Clone the repo
 
-##Create a bridge network
+#Create a bridge network and docker run commands to spin up postgres and then airflow.
 
 docker network create -d bridge airflow
  
