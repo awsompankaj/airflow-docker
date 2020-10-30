@@ -1,4 +1,4 @@
-# Airflow-docker
+# Run Apache airflow in docker container with postgres backend
 
 Clone the repo
 
